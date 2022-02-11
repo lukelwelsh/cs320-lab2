@@ -1,1 +1,2 @@
 # cs320-lab2
+WELCOME TO MY GITHUB
